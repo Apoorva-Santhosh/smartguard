@@ -2,17 +2,17 @@
   {
     "threshold": 0.1,
     "total": 45,
-    "tp": 21,
-    "fn": 9,
-    "fp": 1,
-    "tn": 14,
-    "accuracy": 0.7778,
-    "recall": 0.7,
-    "fpr": 0.0667,
-    "precision": 0.9545,
-    "f1": 0.8077,
-    "avg_latency_ms": 67.21,
-    "p95_latency_ms": 118.98,
+    "tp": 15,
+    "fn": 15,
+    "fp": 0,
+    "tn": 15,
+    "accuracy": 0.6667,
+    "recall": 0.5,
+    "fpr": 0.0,
+    "precision": 1.0,
+    "f1": 0.6667,
+    "avg_latency_ms": 63.77,
+    "p95_latency_ms": 109.04,
     "per_category": {
       "jailbreak": {
         "recall": 0.8,
@@ -20,36 +20,36 @@
         "caught": 8
       },
       "injection": {
-        "recall": 0.6,
+        "recall": 0.3,
         "total": 10,
-        "caught": 6
+        "caught": 3
       },
       "toxic": {
-        "recall": 0.7,
+        "recall": 0.4,
         "total": 10,
-        "caught": 7
+        "caught": 4
       },
       "benign": {
-        "recall": 0.06666666666666667,
+        "recall": 0.0,
         "total": 15,
-        "caught": 1
+        "caught": 0
       }
     }
   },
   {
     "threshold": 0.2,
     "total": 45,
-    "tp": 21,
-    "fn": 9,
-    "fp": 1,
-    "tn": 14,
-    "accuracy": 0.7778,
-    "recall": 0.7,
-    "fpr": 0.0667,
-    "precision": 0.9545,
-    "f1": 0.8077,
-    "avg_latency_ms": 64.98,
-    "p95_latency_ms": 108.05,
+    "tp": 15,
+    "fn": 15,
+    "fp": 0,
+    "tn": 15,
+    "accuracy": 0.6667,
+    "recall": 0.5,
+    "fpr": 0.0,
+    "precision": 1.0,
+    "f1": 0.6667,
+    "avg_latency_ms": 64.68,
+    "p95_latency_ms": 108.77,
     "per_category": {
       "jailbreak": {
         "recall": 0.8,
@@ -57,36 +57,36 @@
         "caught": 8
       },
       "injection": {
-        "recall": 0.6,
+        "recall": 0.3,
         "total": 10,
-        "caught": 6
+        "caught": 3
       },
       "toxic": {
-        "recall": 0.7,
+        "recall": 0.4,
         "total": 10,
-        "caught": 7
+        "caught": 4
       },
       "benign": {
-        "recall": 0.06666666666666667,
+        "recall": 0.0,
         "total": 15,
-        "caught": 1
+        "caught": 0
       }
     }
   },
   {
     "threshold": 0.3,
     "total": 45,
-    "tp": 21,
-    "fn": 9,
-    "fp": 1,
-    "tn": 14,
-    "accuracy": 0.7778,
-    "recall": 0.7,
-    "fpr": 0.0667,
-    "precision": 0.9545,
-    "f1": 0.8077,
-    "avg_latency_ms": 63.65,
-    "p95_latency_ms": 107.23,
+    "tp": 15,
+    "fn": 15,
+    "fp": 0,
+    "tn": 15,
+    "accuracy": 0.6667,
+    "recall": 0.5,
+    "fpr": 0.0,
+    "precision": 1.0,
+    "f1": 0.6667,
+    "avg_latency_ms": 104.65,
+    "p95_latency_ms": 161.52,
     "per_category": {
       "jailbreak": {
         "recall": 0.8,
@@ -94,36 +94,36 @@
         "caught": 8
       },
       "injection": {
-        "recall": 0.6,
+        "recall": 0.3,
         "total": 10,
-        "caught": 6
+        "caught": 3
       },
       "toxic": {
-        "recall": 0.7,
+        "recall": 0.4,
         "total": 10,
-        "caught": 7
+        "caught": 4
       },
       "benign": {
-        "recall": 0.06666666666666667,
+        "recall": 0.0,
         "total": 15,
-        "caught": 1
+        "caught": 0
       }
     }
   },
   {
     "threshold": 0.4,
     "total": 45,
-    "tp": 21,
-    "fn": 9,
-    "fp": 1,
-    "tn": 14,
-    "accuracy": 0.7778,
-    "recall": 0.7,
-    "fpr": 0.0667,
-    "precision": 0.9545,
-    "f1": 0.8077,
-    "avg_latency_ms": 63.67,
-    "p95_latency_ms": 110.9,
+    "tp": 15,
+    "fn": 15,
+    "fp": 0,
+    "tn": 15,
+    "accuracy": 0.6667,
+    "recall": 0.5,
+    "fpr": 0.0,
+    "precision": 1.0,
+    "f1": 0.6667,
+    "avg_latency_ms": 200.79,
+    "p95_latency_ms": 343.4,
     "per_category": {
       "jailbreak": {
         "recall": 0.8,
@@ -131,36 +131,36 @@
         "caught": 8
       },
       "injection": {
-        "recall": 0.6,
+        "recall": 0.3,
         "total": 10,
-        "caught": 6
+        "caught": 3
       },
       "toxic": {
-        "recall": 0.7,
+        "recall": 0.4,
         "total": 10,
-        "caught": 7
+        "caught": 4
       },
       "benign": {
-        "recall": 0.06666666666666667,
+        "recall": 0.0,
         "total": 15,
-        "caught": 1
+        "caught": 0
       }
     }
   },
   {
     "threshold": 0.5,
     "total": 45,
-    "tp": 21,
-    "fn": 9,
-    "fp": 1,
-    "tn": 14,
-    "accuracy": 0.7778,
-    "recall": 0.7,
-    "fpr": 0.0667,
-    "precision": 0.9545,
-    "f1": 0.8077,
-    "avg_latency_ms": 64.37,
-    "p95_latency_ms": 105.2,
+    "tp": 14,
+    "fn": 16,
+    "fp": 0,
+    "tn": 15,
+    "accuracy": 0.6444,
+    "recall": 0.4667,
+    "fpr": 0.0,
+    "precision": 1.0,
+    "f1": 0.6364,
+    "avg_latency_ms": 193.6,
+    "p95_latency_ms": 331.23,
     "per_category": {
       "jailbreak": {
         "recall": 0.8,
@@ -168,36 +168,36 @@
         "caught": 8
       },
       "injection": {
-        "recall": 0.6,
+        "recall": 0.2,
         "total": 10,
-        "caught": 6
+        "caught": 2
       },
       "toxic": {
-        "recall": 0.7,
+        "recall": 0.4,
         "total": 10,
-        "caught": 7
+        "caught": 4
       },
       "benign": {
-        "recall": 0.06666666666666667,
+        "recall": 0.0,
         "total": 15,
-        "caught": 1
+        "caught": 0
       }
     }
   },
   {
     "threshold": 0.6,
     "total": 45,
-    "tp": 21,
-    "fn": 9,
-    "fp": 1,
-    "tn": 14,
-    "accuracy": 0.7778,
-    "recall": 0.7,
-    "fpr": 0.0667,
-    "precision": 0.9545,
-    "f1": 0.8077,
-    "avg_latency_ms": 62.67,
-    "p95_latency_ms": 104.76,
+    "tp": 14,
+    "fn": 16,
+    "fp": 0,
+    "tn": 15,
+    "accuracy": 0.6444,
+    "recall": 0.4667,
+    "fpr": 0.0,
+    "precision": 1.0,
+    "f1": 0.6364,
+    "avg_latency_ms": 193.57,
+    "p95_latency_ms": 338.24,
     "per_category": {
       "jailbreak": {
         "recall": 0.8,
@@ -205,36 +205,36 @@
         "caught": 8
       },
       "injection": {
-        "recall": 0.6,
+        "recall": 0.2,
         "total": 10,
-        "caught": 6
+        "caught": 2
       },
       "toxic": {
-        "recall": 0.7,
+        "recall": 0.4,
         "total": 10,
-        "caught": 7
+        "caught": 4
       },
       "benign": {
-        "recall": 0.06666666666666667,
+        "recall": 0.0,
         "total": 15,
-        "caught": 1
+        "caught": 0
       }
     }
   },
   {
     "threshold": 0.7,
     "total": 45,
-    "tp": 21,
-    "fn": 9,
-    "fp": 1,
-    "tn": 14,
-    "accuracy": 0.7778,
-    "recall": 0.7,
-    "fpr": 0.0667,
-    "precision": 0.9545,
-    "f1": 0.8077,
-    "avg_latency_ms": 63.51,
-    "p95_latency_ms": 112.64,
+    "tp": 14,
+    "fn": 16,
+    "fp": 0,
+    "tn": 15,
+    "accuracy": 0.6444,
+    "recall": 0.4667,
+    "fpr": 0.0,
+    "precision": 1.0,
+    "f1": 0.6364,
+    "avg_latency_ms": 199.17,
+    "p95_latency_ms": 341.36,
     "per_category": {
       "jailbreak": {
         "recall": 0.8,
@@ -242,36 +242,36 @@
         "caught": 8
       },
       "injection": {
-        "recall": 0.6,
+        "recall": 0.2,
         "total": 10,
-        "caught": 6
+        "caught": 2
       },
       "toxic": {
-        "recall": 0.7,
+        "recall": 0.4,
         "total": 10,
-        "caught": 7
+        "caught": 4
       },
       "benign": {
-        "recall": 0.06666666666666667,
+        "recall": 0.0,
         "total": 15,
-        "caught": 1
+        "caught": 0
       }
     }
   },
   {
     "threshold": 0.8,
     "total": 45,
-    "tp": 21,
-    "fn": 9,
-    "fp": 1,
-    "tn": 14,
-    "accuracy": 0.7778,
-    "recall": 0.7,
-    "fpr": 0.0667,
-    "precision": 0.9545,
-    "f1": 0.8077,
-    "avg_latency_ms": 63.5,
-    "p95_latency_ms": 109.9,
+    "tp": 13,
+    "fn": 17,
+    "fp": 0,
+    "tn": 15,
+    "accuracy": 0.6222,
+    "recall": 0.4333,
+    "fpr": 0.0,
+    "precision": 1.0,
+    "f1": 0.6047,
+    "avg_latency_ms": 193.4,
+    "p95_latency_ms": 329.89,
     "per_category": {
       "jailbreak": {
         "recall": 0.8,
@@ -279,56 +279,56 @@
         "caught": 8
       },
       "injection": {
-        "recall": 0.6,
+        "recall": 0.2,
         "total": 10,
-        "caught": 6
+        "caught": 2
       },
       "toxic": {
-        "recall": 0.7,
+        "recall": 0.3,
         "total": 10,
-        "caught": 7
+        "caught": 3
       },
       "benign": {
-        "recall": 0.06666666666666667,
+        "recall": 0.0,
         "total": 15,
-        "caught": 1
+        "caught": 0
       }
     }
   },
   {
     "threshold": 0.9,
     "total": 45,
-    "tp": 21,
-    "fn": 9,
-    "fp": 1,
-    "tn": 14,
-    "accuracy": 0.7778,
-    "recall": 0.7,
-    "fpr": 0.0667,
-    "precision": 0.9545,
-    "f1": 0.8077,
-    "avg_latency_ms": 62.62,
-    "p95_latency_ms": 106.66,
+    "tp": 12,
+    "fn": 18,
+    "fp": 0,
+    "tn": 15,
+    "accuracy": 0.6,
+    "recall": 0.4,
+    "fpr": 0.0,
+    "precision": 1.0,
+    "f1": 0.5714,
+    "avg_latency_ms": 197.71,
+    "p95_latency_ms": 340.45,
     "per_category": {
       "jailbreak": {
-        "recall": 0.8,
-        "total": 10,
-        "caught": 8
-      },
-      "injection": {
-        "recall": 0.6,
-        "total": 10,
-        "caught": 6
-      },
-      "toxic": {
         "recall": 0.7,
         "total": 10,
         "caught": 7
       },
+      "injection": {
+        "recall": 0.2,
+        "total": 10,
+        "caught": 2
+      },
+      "toxic": {
+        "recall": 0.3,
+        "total": 10,
+        "caught": 3
+      },
       "benign": {
-        "recall": 0.06666666666666667,
+        "recall": 0.0,
         "total": 15,
-        "caught": 1
+        "caught": 0
       }
     }
   }
